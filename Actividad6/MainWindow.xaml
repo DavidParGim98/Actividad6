@@ -9,8 +9,8 @@
         Icon="ico.ico">
     
     <Grid>
-        <Image Source="episodioIV.jpg" Margin="0,0,583,0" Opacity="0.5" x:Name="img1" MouseEnter="Entra" MouseLeave="Sale"/>
-        <Image Source="episodioV.jpg" Margin="589,0,10,0" Opacity="0.5" x:Name="img2" MouseEnter="Entra" MouseLeave="Sale"/>
-        <Image Source="episodioVI.jpg" Margin="303,0" Opacity="0.5" x:Name="img3" MouseEnter="Entra" MouseLeave="Sale"/>
+        <Image Source="episodioIV.jpg" Margin="0,0,583,0" Opacity="0.5" x:Name="img1" MouseEnter="Entra" MouseLeave="Sale" />
+        <Image Source="episodioV.jpg" Margin="589,0,10,0" Opacity="0.5" x:Name="img2" MouseEnter="Entra" MouseLeave="Sale" />
+        <Image Source="episodioVI.jpg" Margin="303,0" Opacity="0.5" x:Name="img3" MouseEnter="Entra" MouseLeave="Sale" />
     </Grid>
 </Window>
